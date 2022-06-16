@@ -1,0 +1,10 @@
+{
+  "name": "Create List Items",
+  "version": "1.0.0",
+  "description": "Adds command to create a list from selected list item. See Edit > Run Command…",
+  "homepage": "https://github.com/FoldingText/plugins/tree/FoldingText-Dev",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}

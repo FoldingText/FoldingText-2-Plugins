@@ -1,0 +1,10 @@
+{
+  "name": "Emacs Key Bindings",
+  "version": "1.0.0",
+  "description": "Additions to the standard keybindings",
+  "homepage": "",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
